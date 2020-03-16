@@ -1,6 +1,6 @@
 
 #ind2popfile run this before pong analysis to generate population file
-#panel.yxy file is a tab seperated file contains sample, super population and population informations
+#panel.yxy file is a tab seperated file contains sample, super population and population
 #FAM2AdmixturePop.r FAMfile.fam panel.txt output.txt
 args = commandArgs(trailingOnly=TRUE)
 
